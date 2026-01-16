@@ -1,5 +1,5 @@
 import streamlit as st
-import cv2
+#importcv2
 import mediapipe as mp
 import numpy as np
 import pandas as pd
@@ -281,3 +281,4 @@ if uploaded_file is not None:
                 st.download_button("📥 Baixar CSV", csv, "analise.csv", "text/csv")
 else:
     st.info("👈 Carregue um vídeo na barra lateral.")
+
