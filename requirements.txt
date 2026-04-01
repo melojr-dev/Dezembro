@@ -1,6 +1,6 @@
 streamlit
-opencv-python-headless
 mediapipe==0.10.9
+opencv-python-headless
 protobuf>=3.20.3,<5.0.0
 numpy
 pandas
